@@ -63,7 +63,7 @@ Data was captured using a custom-engineered IoT edge node built on a Raspberry P
 
 > **Hardware Availability:**  
 > The custom hardware sensing device, mechanical couplers, and acquisition firmware are available upon request for research groups and industrial deployments.  
-> 📧 **Contact for Purchase & Licensing:** [langquyen235@gmail.com](mailto:langquyen235@gmail.com)
+> 📧 **Contact:** [langquyen235@gmail.com](mailto:langquyen235@gmail.com)
 
 ---
 
